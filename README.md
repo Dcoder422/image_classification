@@ -12,3 +12,18 @@ The classes are :
 7.nail
 8.peanut
 9.skull
+
+## Tools and Techniques Used
+- Matplotlib
+- OpenCv
+- Rescaling
+- Keras - CNN
+- Maxpooling
+- Activation function - Relu and Softmax
+- Loss Function - Categorical CrossEntropy
+- Metrics - Accuracy 
+- Optimizer - RMSprop
+
+
+
+
